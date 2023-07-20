@@ -2,6 +2,7 @@
 #include <stdio.h>
 /**
  * array_iterator -  executes a function given as a parameter
+ * @array: array
  * @size: number of elemts to print
  * @action: pointer to print
  * Return: 0
